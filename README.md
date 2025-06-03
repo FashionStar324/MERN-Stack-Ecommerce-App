@@ -388,8 +388,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## Creator
 
-- **Son Nguyen** - [hoangsonww](https://github.com/FashionStar324)
-- **Email:** [hoangson091104@gmail.com](mailto:dekang0324@gmail.com).
+- **FashionStar324** - [fashionStar324](https://github.com/FashionStar324)
 
 ---
 
